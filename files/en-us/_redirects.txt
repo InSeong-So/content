@@ -6996,6 +6996,7 @@
 /en-US/docs/Web/API/ByteLengthQueueingStrategy/ByteLengthQueueingStrategy	/en-US/docs/Web/API/ByteLengthQueuingStrategy/ByteLengthQueuingStrategy
 /en-US/docs/Web/API/ByteLengthQueueingStrategy/size	/en-US/docs/Web/API/ByteLengthQueuingStrategy/size
 /en-US/docs/Web/API/ByteLengthQueuingStrategy/ByteLengthQueueingStrategy	/en-US/docs/Web/API/ByteLengthQueuingStrategy/ByteLengthQueuingStrategy
+/en-US/docs/Web/API/ByteString	/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 /en-US/docs/Web/API/CSS.escape	/en-US/docs/Web/API/CSS/escape
 /en-US/docs/Web/API/CSS.supports	/en-US/docs/Web/API/CSS/supports
 /en-US/docs/Web/API/CSSFontLoading_API	/en-US/docs/Web/API/CSS_Font_Loading_API
@@ -8233,6 +8234,9 @@
 /en-US/docs/Web/API/Path2D.addPath	/en-US/docs/Web/API/Path2D/addPath
 /en-US/docs/Web/API/PaymentAddress/PaymentAddress.country	/en-US/docs/Web/API/PaymentAddress/country
 /en-US/docs/Web/API/PaymentAddress/regionCode	/en-US/docs/Web/API/PaymentAddress
+/en-US/docs/Web/API/PaymentDetailsUpdate	/en-US/docs/Web/API/PaymentRequestUpdateEvent/updateWith
+/en-US/docs/Web/API/PaymentDetailsUpdate/error	/en-US/docs/Web/API/PaymentRequestUpdateEvent/updateWith
+/en-US/docs/Web/API/PaymentDetailsUpdate/shippingAddressErrors	/en-US/docs/Web/API/PaymentRequestUpdateEvent/updateWith
 /en-US/docs/Web/API/PaymentRequest/PaymentRequest.onmerchantvalidation	/en-US/docs/Web/API/PaymentRequest/onmerchantvalidation
 /en-US/docs/Web/API/PaymentRequest/shippingaddresschange	/en-US/docs/Web/API/PaymentRequest/shippingaddresschange_event
 /en-US/docs/Web/API/PaymentRequestEvent/topLevelOrigin	/en-US/docs/Web/API/PaymentRequestEvent/topOrigin
@@ -8339,6 +8343,11 @@
 /en-US/docs/Web/API/RTCDataChannelEvent.channel	/en-US/docs/Web/API/RTCDataChannelEvent/channel
 /en-US/docs/Web/API/RTCIceCandidate/RTCIceCandidate.address	/en-US/docs/Web/API/RTCIceCandidate/address
 /en-US/docs/Web/API/RTCIceCandidate/ip	/en-US/docs/Web/API/RTCIceCandidate/address
+/en-US/docs/Web/API/RTCIceCandidateInit	/en-US/docs/Web/API/RTCIceCandidate/RTCIceCandidate
+/en-US/docs/Web/API/RTCIceCandidateInit/candidate	/en-US/docs/Web/API/RTCIceCandidate/candidate
+/en-US/docs/Web/API/RTCIceCandidateInit/sdpMLineIndex	/en-US/docs/Web/API/RTCIceCandidate/sdpMLineIndex
+/en-US/docs/Web/API/RTCIceCandidateInit/sdpMid	/en-US/docs/Web/API/RTCIceCandidate/sdpMid
+/en-US/docs/Web/API/RTCIceCandidateInit/usernameFragment	/en-US/docs/Web/API/RTCIceCandidate/usernameFragment
 /en-US/docs/Web/API/RTCIceCandidatePairStats/bytesReceieved	/en-US/docs/Web/API/RTCIceCandidatePairStats/bytesReceived
 /en-US/docs/Web/API/RTCIceCandidatePairStats/circuitBreakerTriggerCoun	/en-US/docs/Web/API/RTCIceCandidatePairStats/circuitBreakerTriggerCount
 /en-US/docs/Web/API/RTCIceCandidatePairStats/contentRequestsSent	/en-US/docs/Web/API/RTCIceCandidatePairStats/consentRequestsSent
